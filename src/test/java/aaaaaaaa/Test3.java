@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class Test3 {
 	@Test
 	public void tc1() {
-		Reporter.log("Hello APItesting",true);
+		Reporter.log("Hello API",true);
 	}
 
 }
